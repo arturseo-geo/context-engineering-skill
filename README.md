@@ -3,7 +3,7 @@
 > **Also available as part of [claude-code-skills](https://github.com/arturseo-geo/claude-code-skills)** — a collection of 12 production-tested skills for Claude Code.
 
 > Built by **[Artur Ferreira](https://github.com/arturseo-geo)** @ **[The GEO Lab](https://thegeolab.net)**
-> [𝕏 @TheGEO_Lab](https://x.com/TheGEO_Lab) · [LinkedIn](https://linkedin.com/in/arturgeo) · [Reddit](https://www.reddit.com/user/Alternative_Teach_74/)
+> [X @TheGEO_Lab](https://x.com/TheGEO_Lab) · [LinkedIn](https://linkedin.com/in/arturgeo) · [Reddit](https://www.reddit.com/user/Alternative_Teach_74/)
 
 ![Licence](https://img.shields.io/badge/licence-MIT-green)
 ![Claude Code](https://img.shields.io/badge/Claude_Code-skill-blueviolet)
@@ -18,7 +18,21 @@ git clone https://github.com/arturseo-geo/context-engineering-skill.git ~/.claud
 
 ## File Structure
 
-- `SKILL.md` — Core skill instructions covering context window management, compaction strategies, token budgets, and session optimization
+```
+SKILL.md                                — Core skill: context window management, compaction, budgets, session optimization
+references/
+  autocompaction.md                     — Deep dive into compaction mechanics, triggers, and configuration
+  optimization-patterns.md              — 8 proven patterns for extending session life
+  debugging.md                          — Symptom-based diagnosis and recovery workflows
+  budgets.md                            — Token budget allocation strategies
+.github/
+  ISSUE_TEMPLATE/
+    bug-report.md                       — Bug report template
+    platform-update.md                  — Claude Code update template
+  pull_request_template.md              — PR template
+CONTRIBUTING.md                         — Contribution guidelines
+SECURITY.md                             — Security policy
+```
 
 ## Related Repos
 

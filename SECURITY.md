@@ -13,7 +13,7 @@ This repository contains documentation and configuration guidance for Claude Cod
 
 ## How to Report
 
-For security concerns, please email **arturseo.geo@gmail.com** with:
+For security concerns, please email **artur@thegeolab.net** with:
 
 1. Description of the vulnerability
 2. Which file and section is affected

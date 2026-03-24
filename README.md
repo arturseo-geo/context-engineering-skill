@@ -1,6 +1,6 @@
 # context-engineering-skill
 
-> Built by **[Artur Ferreira](https://github.com/arturseo-geo)** · **[thegeolab.net](https://thegeolab.net)** · [𝕏 @TheGEO_Lab](https://x.com/TheGEO_Lab) · [LinkedIn](https://linkedin.com/in/arturgeo) · [Reddit](https://www.reddit.com/user/Alternative_Teach_74/)
+> Built by **[Artur Ferreira](https://github.com/arturseo-geo)** @ **The GEO Lab** · [𝕏 @TheGEO\_Lab](https://x.com/TheGEO_Lab) · [LinkedIn](https://linkedin.com/in/arturgeo) · [Reddit](https://www.reddit.com/user/Alternative_Teach_74/)
 
 ![Version](https://img.shields.io/badge/version-1.0.0-blue)
 ![Licence](https://img.shields.io/badge/licence-MIT-green)
@@ -26,7 +26,7 @@ Context management is the #1 pain point in Claude Code. This skill explains the 
 - ✅ **Symptom-based debugging** — "Claude forgot X" → diagnosis → recovery workflow
 - ✅ **Token budget allocation** — how to distribute context across CLAUDE.md, skills, tools, and conversation
 - ✅ **CLAUDE.md optimisation** — size budgets, router pattern, what to keep vs. move to references
-- ✅ **Production-tested** — patterns refined across 400+ hours of Claude Code usage at The GEO Lab
+- ✅ **Production-tested** — patterns used in production at **[thegeolab.net](https://thegeolab.net)**
 
 ## Install
 
